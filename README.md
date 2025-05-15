@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thalibarros
 - 👀 I’m interested in learn to program
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
 - 💞️ I’m looking knowledge in the area
 - 📫 How to reach me thalinesilva97@gmail.com 
 - 😄 Pronouns: thali 
